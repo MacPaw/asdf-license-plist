@@ -2,6 +2,8 @@
 
 # asdf-license-plist [![Build](https://github.com/MacPaw/asdf-license-plist/actions/workflows/build.yml/badge.svg)](https://github.com/MacPaw/asdf-license-plist/actions/workflows/build.yml) [![Lint](https://github.com/MacPaw/asdf-license-plist/actions/workflows/lint.yml/badge.svg)](https://github.com/MacPaw/asdf-license-plist/actions/workflows/lint.yml)
 
+![asdf-license-plist](.github/header.png)
+
 [LicensePlist](https://github.com/mono0926/LicensePlist) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
