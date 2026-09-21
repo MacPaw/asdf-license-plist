@@ -56,4 +56,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [MacPaw](https://github.com/MacPaw/)
+See [LICENSE](LICENSE) © [MacPaw Way Ltd.](https://github.com/MacPaw/)
